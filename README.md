@@ -33,7 +33,7 @@ Run VBoxWindowsAdditions.exe and restart the VM.
 
 Step 4: Share Lab Tools Folder
 Go to Settings > Shared Folders in VirtualBox and add your Lab Setup Folder.
-Enable Auto-mount and start the VM to access the shared folder.
+Enable Auto-mount and start the VM to access the shared folder,
 Note:(Folder will not be shared by me i had provided link of resources that are available in folder you can download resources and
 insert all item in one folder and can attempt this step.)
 
